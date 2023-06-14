@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - instagram : goksu.mhmt
-- Website : mhmtgks.github.io
+- Website : www.mhmtgks.github.io
 - E-mail: goksumehmet46@gmail.com
 
 <!---
