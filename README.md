@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java,Python,C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- instagram : goksu.mhmt
-- Website : www.mhmtgks.github.io
+- instagram : [goksu.mhmt](https://www.instagram.com/goksu.mhmt/)
+- Website : [mhmtgks.github.io](https://mhmtgks.github.io/)
 - E-mail: goksumehmet46@gmail.com
 
 <!---
