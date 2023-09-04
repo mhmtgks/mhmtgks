@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhmtgks
-- 👀 I’m interested in C,C#,SQL, Java
+- 👀 I’m interested in C,C#, ASP.NET, .NET MVC, SQL, Java
 - 🌱 I’m currently learning Java,Python,C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
